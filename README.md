@@ -36,7 +36,7 @@ A dynamic, multi-stage TOEFL iBT test simulator designed to replicate the offici
   uvicorn main:app --reload
 ```
 ## 🚧 Roadmap
-[x] Core Backend Architecture
-[x] Reading Section Logic & API Endpoints
-[ ] Listening Section Integration
+[x] Core Backend Architecture ,
+[x] Reading Section Logic & API Endpoints , 
+[ ] Listening Section Integration ,
 [ ] Database Migration & User Authentication
