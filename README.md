@@ -166,23 +166,7 @@ A dynamic, multi-stage TOEFL iBT test simulator designed to replicate the offici
 * **Scalable System Design:** Architected with a clean, modular structure to seamlessly integrate upcoming sections (Listening, Speaking, Writing).
 * **Robust Routing:** Efficient endpoint routing to manage multi-stage test states and user sessions.
 
-## 🛠️ Local Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/munirabualrrijal28/toefl-ibt-simulator.git](https://github.com/munirabualrrijal28/toefl-ibt-simulator.git)
-2. **Navigate to the project directory:**
-  ```bash
-  cd toefl-ibt-simulator
-
-```
-3. **Install dependencies:**
-  ```bash
-  pip install -r requirements.txt
-```
-4. **Run the FastAPI server:**
-  ```bash
-  uvicorn main:app --reload
 ```
 ## 🚧 Roadmap
 [x] Core Backend Architecture ,
