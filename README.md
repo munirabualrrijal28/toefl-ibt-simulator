@@ -30,5 +30,9 @@ A dynamic, multi-stage TOEFL iBT test simulator designed to replicate the offici
 3. **Install dependencies:**
   ```bash
   pip install -r requirements.txt
+```
+4. **Run the FastAPI server:**
+  ```bash
+  uvicorn main:app --reload
 
 
