@@ -26,7 +26,7 @@ A dynamic, multi-stage TOEFL iBT test simulator designed to replicate the offici
   ```bash
   cd toefl-ibt-simulator
 
-
+```
 3. **Install dependencies:**
   ```bash
   pip install -r requirements.txt
