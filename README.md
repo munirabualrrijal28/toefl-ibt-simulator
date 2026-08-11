@@ -1,3 +1,4 @@
+## 🚨🚨🚨🚨very Important Note🚨🚨🚨🚨 the project is under development if you faced any problem just open simulator.html in the browser directly and it will work
 # TOEFL iBT Simulator — 2026 Adaptive Edition
 
 A full-stack, multi-stage adaptive TOEFL iBT practice simulator aligned to CEFR band scoring (1.0 – 6.0). The application simulates the real 2026 TOEFL iBT exam format with adaptive difficulty routing, timed sections, and diverse question types across all four language skills.
@@ -173,3 +174,4 @@ A dynamic, multi-stage TOEFL iBT test simulator designed to replicate the offici
 [x] Reading Section Logic & API Endpoints , 
 [ ] Listening Section Integration ,
 [ ] Database Migration & User Authentication
+
