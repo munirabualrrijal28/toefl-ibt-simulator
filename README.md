@@ -24,4 +24,11 @@ A dynamic, multi-stage TOEFL iBT test simulator designed to replicate the offici
    git clone [https://github.com/munirabualrrijal28/toefl-ibt-simulator.git](https://github.com/munirabualrrijal28/toefl-ibt-simulator.git)
 2. **Navigate to the project directory:**
   ```bash
-   cd toefl-ibt-simulator
+  cd toefl-ibt-simulator
+
+
+3. **Install dependencies:**
+  ```bash
+  pip install -r requirements.txt
+
+
