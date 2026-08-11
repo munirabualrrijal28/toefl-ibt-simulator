@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-toefl-primary: #005a8d;
+  --color-toefl-secondary: #007bbd;
+  --color-toefl-background: #f0f4f8;
+  --color-toefl-dark: #1e293b;
+  --color-toefl-accent: #00b4d8;
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+
+body {
+  background: var(--color-toefl-background);
+  color: var(--color-toefl-dark);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
