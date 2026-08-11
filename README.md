@@ -34,5 +34,9 @@ A dynamic, multi-stage TOEFL iBT test simulator designed to replicate the offici
 4. **Run the FastAPI server:**
   ```bash
   uvicorn main:app --reload
-
-
+```
+## 🚧 Roadmap
+[x] Core Backend Architecture
+[x] Reading Section Logic & API Endpoints
+[ ] Listening Section Integration
+[ ] Database Migration & User Authentication
